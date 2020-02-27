@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ConverterValues</string>
+
+    <!--convector-->
+    <string name="title_activity_convector">Convector</string>
+    <string name="title_activity_Calculator">Calculator</string>
+    <string name="convector_edit_text_input"></string>
+    <string name="text_vew_time">Время</string>
+    <string name="radioButton_hours_to_minutes">часы в минуты</string>
+    <string name="radioButton_minutes_to_hours">минуты в часы</string>
+    <string name="radioButton_C_to_F"><![CDATA[C --> F]]></string>
+    <string name="radioButton_F_to_C"><![CDATA[F --> C]]></string>
+    <string name="radioButton_g_to_d"><![CDATA[₴ -->$]]></string>
+    <string name="radioButton_d_to_g"><![CDATA[$ -->₴]]></string>
+    <string name="radioButton_Kg_to_Mg"><![CDATA[Kg --> Mg]]></string>
+    <string name="radioButton_Mg_to_Kg"><![CDATA[Mg --> Kg]]></string>
+    <string name="button_clear_convectorText">Очистить</string>
+    <string name="text_if_edit_text_is_empty">Введите число</string>
+    <string name="history">history:</string>
+    <string name="answer">answer:</string>
+    <string name="buttonConvert_text">Конвектировать</string>
+
+
+
+</resources>
